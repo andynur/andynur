@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy Nur</h1>
-<h3 align="center">Dedicated professional with over 5 years of experience in building applications and managing development teams from Indonesia 🇮🇩. Adept at problem-solving, with strong skills in communication, collaboration, and technical documentation. Consistently delivers effective solutions and ensures project completion.</h3>
+<h3 align="center">Dedicated Full-Stack Developer with over 5 years of experience in building apps from Indonesia 🇮🇩</h3>
 
 - 🔭 I’m currently working on [Rapid Chat - Realtime Chat API based on NestJS](https://github.com/andynur/rapid-chat)
 
