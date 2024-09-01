@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andy Nur</h1>
-<h3 align="center">Dedicated Full-Stack Developer with over 5 years of experience in building apps from Indonesia 🇮🇩</h3>
+<h3 align="center">Dedicated Full-Stack Developer with over 5 years of hands-on experience</h3>
 
-- 🔭 I’m currently working on [Rapid Chat - Realtime Chat API based on NestJS](https://github.com/andynur/rapid-chat)
+- 🔭 I’m based in the breathtaking tropical country of **Indonesia** 🇮🇩
 
-- 🌱 I’m currently learning **DevOps, WEB3 and Generative AI**
+- 🌱 I’m currently exploring **DevOps, Web3, LLM and Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://andynur.my.id/projects](https://andynur.my.id/projects)
 
-- 📝 I regularly write articles on [https://andynur.my.id/blog](https://andynur.my.id/blog)
+- 📝 I occasionally write articles on [https://andynur.my.id/blog](https://andynur.my.id/blog)
 
-- 💬 Ask me about **Full-Stack Development**
+- 💬 Ask me about **Full-Stack Development** from initial planning to final production deployment.
 
 - 📫 How to reach me **andynur.id@gmail.com**
 
